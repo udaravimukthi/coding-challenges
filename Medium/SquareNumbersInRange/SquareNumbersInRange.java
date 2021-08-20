@@ -22,3 +22,14 @@ public class SquareNumbersInRange {
 }
 
 // output
+// Perfect Numbers between1 and100
+// 1 = 1*1
+// 4 = 2*2
+// 9 = 3*3
+// 16 = 4*4
+// 25 = 5*5
+// 36 = 6*6
+// 49 = 7*7
+// 64 = 8*8
+// 81 = 9*9
+// 100 = 10*10
