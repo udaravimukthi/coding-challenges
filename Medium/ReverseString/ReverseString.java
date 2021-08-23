@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class ReverseString {
     public static void main(String args[]){
         Scanner scan = new Scanner(System.in);
+        System.out.println("Enter your word");
         String s = scan.nextLine();
         System.out.println("The inserted word is: " +s);
         String reverse = "";
