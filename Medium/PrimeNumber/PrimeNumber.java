@@ -17,6 +17,7 @@ public class PrimeNumber {
                 }
             }
         }
+        System.out.println("Prime numbers form 1 to 100: " + primeNumbers);
 
     }
 }
