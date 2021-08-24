@@ -1,0 +1,14 @@
+//prime number in range 1 to 100
+
+public class PrimeNumber {
+    public static void main (String args[]){
+        int i=0;
+        int num = 0;
+        String primeNumbers = "";
+
+        for(i=1; i<=100; i++){
+            int counter=0;
+        }
+
+    }
+}
