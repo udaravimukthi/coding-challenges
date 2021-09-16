@@ -32,6 +32,7 @@ public class QuickSort {
                 swap(arr,i,j);
             }
         }
-        swap(arr)
+        swap(arr,i+1, high);
+        return (i+1);
     }
 }
