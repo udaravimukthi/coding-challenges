@@ -1,6 +1,6 @@
 public class BinaryTree {
     //root of Binary tree
-    NOde root;
+    Node root;
 
     //constructors
     BinaryTree(int key){
@@ -31,7 +31,7 @@ public class BinaryTree {
     }
 }
 
-public class Node{
+class Node{
     int key;
     Node left, right;
 
