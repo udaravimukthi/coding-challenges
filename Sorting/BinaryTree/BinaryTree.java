@@ -10,4 +10,12 @@ public class BinaryTree {
     BinaryTree(){
         root = null;
     }
+
+    public static void main (String args[]){
+        BinaryTree tree = new BinaryTree();
+        
+        //create root
+        
+
+    }
 }
