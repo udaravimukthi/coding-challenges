@@ -27,5 +27,8 @@ public class BinarySearchTree {
         tree.insert(70);
         tree.insert(60);
         tree.insert(80);
+        
+        //print inorder traversal of the BST
+        tree.inorder();
     }
 }
