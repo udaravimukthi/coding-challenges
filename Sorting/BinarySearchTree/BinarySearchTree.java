@@ -13,5 +13,9 @@ public class BinarySearchTree {
     Node root;
 
     //constrcutor
-    
+    BinarySearchTree(){
+        root = null;
+    }
+
+    public sta
 }
