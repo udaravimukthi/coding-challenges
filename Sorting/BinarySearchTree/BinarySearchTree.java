@@ -8,4 +8,10 @@ public class BinarySearchTree {
             left = right =null;
         }
     }
+    
+    //root of BST
+    Node root;
+
+    //constrcutor
+    
 }
