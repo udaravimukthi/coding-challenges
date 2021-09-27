@@ -1,10 +1,8 @@
-package JavaMix.DupInArray;
-
 public class DupInArray {
     public static void main(String args[]) {
-        int arr[] = { 2, 3, 4, 4, 3, 6, 7 };
+        int arr[] = { 2, 3, 4, 4, 3, 6, 7, 8, 8, 8 };
 
-        System.out.print("Print duplicated numbers in array");
+        System.out.print("Print duplicated numbers in array: \n");
         duplicate(arr);
     }
 
