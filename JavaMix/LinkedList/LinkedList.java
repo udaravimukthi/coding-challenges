@@ -10,5 +10,8 @@ public class LinkedList {
         ll.addLast("C");
         ll.addFirst("D");
         ll.add(2, "E");
+
+        System.out.println(ll);
     }
+
 }
