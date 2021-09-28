@@ -12,6 +12,11 @@ public class LinkedList {
         ll.add(2, "E");
 
         System.out.println(ll);
+
+        ll.remove("B");
+        ll.remove(3);
+        ll.removeFirst();
+        ll.removeLast();
     }
 
 }
