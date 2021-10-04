@@ -12,6 +12,6 @@ class TestSleepMethod extends Thread {
         TestSleepMethod t2 = new TestSleepMethod();
 
         t1.start();
-        t2.start(); // output should be 1 1 2 2 3 3 4 4 5 5
+        t2.start(); // output should be 1 1 2 2 3 3 4 4
     }
 }
