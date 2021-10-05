@@ -1,4 +1,7 @@
-//runtime polymorphism
+//runtime polymorphism 
+//method overriding
+//late binding
+//dynamic polymorphismS
 
 public class Polymorphism1 {
     public static void main(String[] args) {
